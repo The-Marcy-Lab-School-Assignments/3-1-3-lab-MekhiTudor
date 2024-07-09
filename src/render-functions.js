@@ -86,6 +86,13 @@ export const renderNewUserForm = (newUserFormEl) => {
     favLangSelect,
     button
   );
+  /*
+  FEEDBACK
+    Great job on this! Excellent attention to detail!
+    For future reference, you could have also used innerHTML here
+    and write the form directly in there,
+    either way, great job!
+  */
 };
 
 export const renderNewUser = (newUserEl, newUser) => {
